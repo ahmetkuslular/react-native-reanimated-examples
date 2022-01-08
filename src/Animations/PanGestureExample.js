@@ -4,7 +4,6 @@ import Animated, {
   useAnimatedGestureHandler,
   useAnimatedStyle,
   withSpring,
-  withTiming,
   useSharedValue,
 } from 'react-native-reanimated';
 import {PanGestureHandler} from 'react-native-gesture-handler';
